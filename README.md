@@ -1,4 +1,4 @@
-# Hospital-HealthCare-Homepage
+# Hospital-HealthCare-Landing-Page
 
 ![Preview](https://github.com/MaduSales/Hospital-HealthCare-Homepage/assets/166547195/87cad7ff-c3ff-4124-b9de-8d5374121bb1)
 
