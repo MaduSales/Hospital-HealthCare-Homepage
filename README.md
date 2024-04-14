@@ -9,7 +9,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 ## Acesso
 
-[Clique aqui para acessar! :)](https://madusales.github.io/Hospital-HealthCare-Homepage/)
+[Clique aqui para acessar! :)](https://madusales.github.io/Hospital-HealthCare-Landing-Page/)
 
 ## Tecnologias
 - HTML
